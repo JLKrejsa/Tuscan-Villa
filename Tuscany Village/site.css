@@ -1,0 +1,66 @@
+﻿body {
+    background-color:#CCCFCD;
+}
+
+h1 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 48px;
+    text-align:center;
+}
+
+h2{
+    font-family:'Satisfy', cursive;
+    font-size:48px;
+    text-align: center;
+}
+
+.jumbotron{
+    background-color:#CCCFCD;
+}
+#navvy{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: #434647;
+    background-color: #FFFFFF;
+    text-align:center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar{
+    text-align: center;
+    
+}
+.TopPic{
+    height: 432px;
+    width: 800px;
+    position:absolute;
+}
+
+.VillaMap{
+    height: 432px;
+    width:700px;
+    /*position:absolute;*/  
+}
+.HowAwayText well-sm{
+    font-family: 'Montserrat', sans-serif;
+    position:absolute;
+}
+.FindVillaText{
+    font-family: 'Montserrat', sans-serif;
+    position:absolute;
+}
+.Thing{
+    height:348px;
+    width:348px;
+    position:absolute;
+}
+.Patio{
+    height:348px;
+    width:348px;
+    position:absolute;
+}
+
+
+
+
+
