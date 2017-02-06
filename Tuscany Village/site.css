@@ -25,15 +25,20 @@ h2{
     text-align:center;
     font-family: 'Montserrat', sans-serif;
 }
+#properties{
 
-.navbar{
+}
+.nav navbar-nav{
     text-align: center;
     
+}
+.Windows{
+    text-align: left;
 }
 .TopPic{
     height: 432px;
     width: 800px;
-    position:absolute;
+    /*position:absolute;*/
 }
 
 .VillaMap{
@@ -41,26 +46,75 @@ h2{
     width:700px;
     /*position:absolute;*/  
 }
+
 .HowAwayText well-sm{
     font-family: 'Montserrat', sans-serif;
-    position:absolute;
+    position:relative;
 }
 .FindVillaText{
     font-family: 'Montserrat', sans-serif;
-    position:absolute;
+    position:relative;
 }
-.Thing{
+.ThingOne{
     height:348px;
     width:348px;
-    position:absolute;
+    /*position:absolute;*/
 }
-.Patio{
+.Patio1{
     height:348px;
     width:348px;
-    position:absolute;
+    /*position:absolute;*/
+}
+.Bedroom{
+    height:348px;
+    width:348px;
+    /*position:absolute;*/
+}
+.Poolside{
+    height:348px;
+    width:348px;
+    /*position: absolute;*/
+}
+Pooldeck{
+    height:348px;
+    width:348px;
+    /*position:absolute;*/
 }
 
-
-
+.ThingTwo{
+    height:348px;
+    width:348px;
+    /*position:absolute;*/
+}
+.Patio2{
+    height:348px;
+    width:348px;
+    /*position:absolute;*/
+}
+.ThingThree{
+    height:348px;
+    width:348px;
+    /*position:absolute;*/
+}
+.ThingFour{
+    height:348px;
+    width:348px;
+    /*position:absolute;*/
+}
+.Interior{
+    height:348px;
+    width:348px;
+    /*position:absolute;*/
+}
+.Clients{
+    height:348px;
+    width:348px;
+    /*position:absolute;*/
+}
+.Partners{
+    height:348px;
+    width:348px;
+    /*position:absolute;*/
+}
 
 
